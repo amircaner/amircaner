@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amir.
 - I am from Iran.
-- I interested coding.
+- I am interested coding.
 - 
 
 <!---
